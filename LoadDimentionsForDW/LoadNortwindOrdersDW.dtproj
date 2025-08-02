@@ -26,26 +26,26 @@
           <SSIS:Property SSIS:Name="CreatorComputerName">LAPTOP-G84F3LPP</SSIS:Property>
           <SSIS:Property SSIS:Name="Description">
           </SSIS:Property>
-          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAIpd9r08iDEaxIQNbpGmD8wAAAAACAAAAAAAQZgAAAAEAACAAAADGXK/AotXOyA7rDBJjDuGi6K+aV3c5Ru/weO9iNLqjqwAAAAAOgAAAAAIAACAAAAC28Ol1q0F9/ibNCzy2rFs6DmHzir4HQsvfVMBuZ++tMJAAAADE6cp5Wbs7Fsz9L7kpAGehH7Chqo0oWxIKjin6Ninc7hu4DRfuRtLMDgd/uhw9cU8QKRpkwdebDsY2Xithc5lxdJjAP4LoOzbRkQUL6UuFOYxEZEVwfC4hYg90GxekWQc7wP5x6U0BcPzJm6k6JzJXWFrrcMUTvuScEHRZrZx/BA2CSvV/iMKX313zRkgxM8NAAAAAkIcfX9rgVjymtuSrfi+u9VAHGE8ThYB+E/FBsDQT5Ti4LHPhOBzJMjjUbiTkQof7bLbap6DTU/L13MMxdr4zAg==</SSIS:Property>
+          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAIpd9r08iDEaxIQNbpGmD8wAAAAACAAAAAAAQZgAAAAEAACAAAACnuFXIsxzPHWATInvwD2Iw7USy0e3SgzWHTX4MesH4kgAAAAAOgAAAAAIAACAAAACFQWGNqvjwLoRtSqc/MmOymm4u0BHha1L3ZFsei5TPGZAAAAB0NdWo5T9We/6KZg9PWTa0Q86BtF7J9j2DEbB7snd4Po/kRj4zoyUUQr5ACetJoS5S3nUdp9jFm3MGmB25h+eRG9wrv4VqzeT22Ps54xYSJ7dd4OPz4b0C8TXD0zd3lUQL/YZ2ywdf6CkEYViIqs+JviKrTD7kIhX6cY3aL8oZ0vybiaJLZ9izZr8aXyRgLD5AAAAAscu9r/qoYO5kUJHQfA74WjJLHbY4GBYip3KXSd3aHgtx4v7syxSfaz7Sq8ZlTGa53eQIpA7KXOHjnPEXfwIXeA==</SSIS:Property>
           <SSIS:Property SSIS:Name="FormatVersion">1</SSIS:Property>
         </SSIS:Properties>
         <SSIS:Packages>
-          <SSIS:Package SSIS:Name="LoadNowrthwindDW.dtsx" SSIS:EntryPoint="1" />
+          <SSIS:Package SSIS:Name="LoadNorthwindDW.dtsx" SSIS:EntryPoint="1" />
         </SSIS:Packages>
         <SSIS:ConnectionManagers />
         <SSIS:DeploymentInfo>
           <SSIS:ProjectConnectionParameters />
           <SSIS:PackageInfo>
-            <SSIS:PackageMetaData SSIS:Name="LoadNowrthwindDW.dtsx">
+            <SSIS:PackageMetaData SSIS:Name="LoadNorthwindDW.dtsx">
               <SSIS:Properties>
-                <SSIS:Property SSIS:Name="ID">{2332C1DB-D89F-4071-8722-CD244723F0E0}</SSIS:Property>
-                <SSIS:Property SSIS:Name="Name">LoadNowrthwindDW</SSIS:Property>
+                <SSIS:Property SSIS:Name="ID">{15DC2DEF-EFAB-496A-83BC-FF3F62088FA0}</SSIS:Property>
+                <SSIS:Property SSIS:Name="Name">LoadNorthwindDW</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMajor">1</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMinor">0</SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionBuild">13</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionBuild">35</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionComments">
                 </SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionGUID">{F4C24AA8-212A-4CDE-96F7-B8B9570B1A55}</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionGUID">{E22BF5F0-3046-46FE-A4B8-B4FF480E85FA}</SSIS:Property>
                 <SSIS:Property SSIS:Name="PackageFormatVersion">8</SSIS:Property>
                 <SSIS:Property SSIS:Name="Description">
                 </SSIS:Property>
